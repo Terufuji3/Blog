@@ -1,5 +1,5 @@
 
-
+#git
 
 - [[obsidianの特定のディレクトリにあるmdのみをgithub pagesで公開する方法]]で使われていた
 
